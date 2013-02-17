@@ -1,4 +1,4 @@
-# My writings
+# My Writings
 
 I recently decided that I would shelve my blog. This repo is where I now
 keep my writing, commentary, ideas, and other thoughts. Thanks for
@@ -52,8 +52,8 @@ existing design, tweaking the layout, and experimenting with new option.
 It's fun, but slightly frustrating. Most importantly, I'm not 
 actually _writing_. Using GitHub as my medium will remove these visual 
 design decisions, so I can actually focus on writing. Also, GitHub employs 
-the greatest visual and UX design team in world. They are now in charge 
-of my layout, and I am happy for that.
+the [greatest visual and UX design team](https://github.com/blog/search?q=design) 
+in world. They are now in charge of my layout, and I am happy for that.
 
 Also, putting my writings on GitHub is freeing. From a reach
 perspective, GitHub has a huge audience. Most importantly, I'll never be
