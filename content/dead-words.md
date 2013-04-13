@@ -12,6 +12,6 @@ sub-cliche, and they deserve to be retired. These are the dead words:
 - Catalyst
 - Engaging
 
-# Can they be reborn>
+# Can they be reborn?
 
 I suppose so. Language is dynamic and alive. Perhaps life may be breathed into them again.
