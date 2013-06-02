@@ -17,7 +17,7 @@ Blogs, for the most part, are organized by date, and older posts
 generally fall into the abyss of page archives. Any revisions,
 additions, or changes made are often worthless. This was something I
 wanted to avoid. I view mostly everything you see in this repo as a WIP,
-simply because _I_ and a WIP. My experience changes. My opinion changes.
+simply because _I_ am a WIP. My experience changes. My opinion changes.
 My writing should be able to change. As a corollary to this, the
 revision process is, in my opinion, real and valid work. I want older
 versions of these publications to be searchable. It's ok to see my
@@ -38,8 +38,8 @@ writing. But, it's a close approximation.
 I don't want to optimize my titles. I love the modern copywriting
 movement. It's fascinating, and I practice the process of writing
 engaging copy every day. My job depends on it. But, it doesn't belong
-here. Perhaps, it may not be appropriate for one of my pieces to have a
-title, rather one that's been overly thought out and designed to attract
+here. It may not be appropriate for one of my pieces to have a
+title, let alone one that's been overly thought out and designed to attract
 an audience. Some of these posts may end up reading like a traditional
 linkbait blog post. But, I don't want that constraint with this
 endeavor.
@@ -57,7 +57,7 @@ in world. They are now in charge of my layout, and I am happy for that.
 
 Also, putting my writings on GitHub is freeing. From a reach
 perspective, GitHub has a huge audience. Most importantly, I'll never be
-tethered to a specific blogging tool or platform. Right not I write in
+tethered to a specific blogging tool or platform. Right now I write in
 Markdown, to make linking easy. But, text is text. I can easily pull
 this repo down and push it somewhere else. I can have infinite copies. I
 can be free from the decisions of a blogging company that may have a
