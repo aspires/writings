@@ -12,6 +12,7 @@ sub-cliche, and they deserve to be retired. These are the dead words:
 - Catalyst
 - Engaging
 - Cloud :cloud:
+- App
 
 # Can they be reborn?
 
