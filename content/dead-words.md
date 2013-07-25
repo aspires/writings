@@ -13,6 +13,21 @@ sub-cliche, and they deserve to be retired. These are the dead words:
 - Engaging
 - Cloud :cloud:
 - App
+- Synergy
+- Knowledge Workers
+- Educational Eco-system
+- Deep Dive
+- Gap Analysis 
+- Present State
+- Intended End 
+- High-Level Road Map
+- Future-Proof 
+- Mind Share
+- Mission Critical
+- 110% 
+- Paradigms
+- Risk Management
+
 
 # Can they be reborn?
 
